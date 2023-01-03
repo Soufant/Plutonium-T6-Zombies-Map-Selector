@@ -1,4 +1,3 @@
-
 CoD.PrivateGameLobby.CustomSurvivals = {}
 CoD.PrivateGameLobby.CustomSurvivals[1] = {}
 CoD.PrivateGameLobby.CustomSurvivals[1].id = "CUSTOM_MAP"
